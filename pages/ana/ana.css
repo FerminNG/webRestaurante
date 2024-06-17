@@ -1,3 +1,33 @@
 *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nosotros{
+    width: 1200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-left: 150px;
     
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: blue;
+    font-family: cambria;
+}
+.texto{
+    width: 600px;
+}
+.texto p{
+    text-align: justify;
+}
+.imagen{
+    width: 500px;
+}
+.imagen img{
+    width: 100%;
 }
